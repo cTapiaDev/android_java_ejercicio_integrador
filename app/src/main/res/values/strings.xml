@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjercicioIntegrador</string>
+
+    <string name="name">DeadPool</string>
+    <string name="marvel">Marvel</string>
+
+    <string name="btnWsp">WhatsApp</string>
+    <string name="btnEmail">Email</string>
+</resources>
